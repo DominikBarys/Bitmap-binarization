@@ -1,0 +1,4 @@
+﻿  Assembling asmBinarization.asm...
+     Creating library D:\MojeProjekty\BitmapBinarization\x64\Release\asmDLL.lib and object D:\MojeProjekty\BitmapBinarization\x64\Release\asmDLL.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  asmDLL.vcxproj -> D:\MojeProjekty\BitmapBinarization\x64\Release\asmDLL.dll

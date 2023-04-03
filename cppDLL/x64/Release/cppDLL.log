@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  cppBinarization.cpp
+  dllmain.cpp
+     Creating library D:\MojeProjekty\BitmapBinarization\x64\Release\cppDLL.lib and object D:\MojeProjekty\BitmapBinarization\x64\Release\cppDLL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  cppDLL.vcxproj -> D:\MojeProjekty\BitmapBinarization\x64\Release\cppDLL.dll

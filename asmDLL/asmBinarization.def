@@ -1,0 +1,2 @@
+LIBRARY asmDLL
+EXPORTS MyBinarization
